@@ -150,6 +150,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA",iNews
 https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:2627434
+#EXTINF:8.000000,
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.gifer.com/307G.gif" group-title="INDONESIA", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
