@@ -1,443 +1,420 @@
+
+#EXTINF:-1 group-title="MAS MOUND EVENT 15/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Jerman vs Curaçao
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 #EXTM3U
 
-#EXTINF:-1 group-title="MAS MOUND EVENT 14/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Qatar vs Swiss
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8912iwuwhjajjajaajajjqiqioqowowwpwpskqoo
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="INDONESIA TV",TVONE
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+========================================================== Trans7 Vision+ =====================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="INDONESIA TV",TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Channel Nasional & Lokal",Trans7 Vision+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
+========================================================== MNCTV =====================================================================
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="INDONESIA TV", Indosiar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="INDONESIA TV", Indosiar (Alternative)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="INDONESIA TV", SCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="INDONESIA TV", SCTV (Alternative)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="INDONESIA TV", Moji
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-
-#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="INDONESIA TV", RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="INDONESIA TV", RCTI (Alternative)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-
-#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-name="MVCTV" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="INDONESIA TV", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Channel Nasional & Lokal",MNCTV Vision+
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-name="MVCTV" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="INDONESIA TV", MNCTV (Alternative)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+========================================================== TRANS TV =====================================================================
 
-#EXTINF:-1 tvg-id="GTV.IPTV" tvg-name="GTV" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="INDONESIA TV", GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Channel Nasional & Lokal",TransTV Vision+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+========================================================== INDOSIAR =====================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Channel Nasional & Lokal", INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+========================================================== ANTV =====================================================================
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="Channel Nasional & Lokal",ANTV Vision+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHJDcAuDDvi2iL4EzF7XBdqLDOe0xeI_4rUKp2s9XTg&s=10" group-title="Channel Nasional & Lokal", ANTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://103.66.62.83:8000/play/a00r/index.m3u8
+
+========================================================== RCTI =====================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rcti.png" group-title="Channel Nasional & Lokal", RCTI Vision+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+========================================================== SCTV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+========================================================== METRO TV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",METRO TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+========================================================== GTV =====================================================================
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="Channel Nasional & Lokal",GTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="GTV.IPTV" tvg-name="GTV" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="INDONESIA TV", GTV (Alternative)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+========================================================== Vision Prime =====================================================================
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrF7FTHRf_GsJjT2yYgdczJtqnkyvmPttoA&s" group-title="Channel Nasional & Lokal",Vision Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+========================================================== Citra Dangdut =====================================================================
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="INDONESIA TV", MDTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_citradangdut.png",Citra Dangdut
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="INDONESIA TV", MDTV (Alternative)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+========================================================== MDTV/NET TV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV/NET TV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-#EXTINF:-1 tvg-id="Magna.id" tvg-name="Magna" tvg-logo="https://object-streamo.emonaja.com/img/magna.webp" group-title="INDONESIA TV", Magna Channel 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+========================================================== MOJI TV =====================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nusantara.png" group-title="INDONESIA TV", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Channel Nasional & Lokal",MOJI TV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nusantara.png" group-title="INDONESIA TV", Nusantara TV (Alternative)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
+========================================================== Mentari TV =====================================================================
 
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/garuda.png" group-title="INDONESIA TV", Garuda TV
-#EXTVLCOPT:http-referrer=https://garuda.tv/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="Channel Nasional & Lokal",Mentari TV
+#https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/20
 
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="Channel Nasional & Lokal",Mentari TV
+http://103.66.62.83:8000/play/a00h/index.m3u8
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="INDONESIA TV",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+========================================================== RTV =====================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="INDONESIA TV", SIN PO TV
-https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="Indonesiana.TV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiana.png" group-title="INDONESIA TV", Indonesiana TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://tvstreamcast.com/indonesiana.m3u8
+========================================================== KOMPAS TV =====================================================================
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg" group-title="INDONESIA TV", JTV
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg" group-title="INDONESIA TV", JTV (Alternative)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
-https://cdnjktbpid22.transvision.co.id/riutx01/dash/anR2LUNoYW5uZWw/manifest.mpd
+========================================================== iNEWS =====================================================================
 
-#EXTINF:-1 tvg-id="Jak.TV.id" tvg-name="JAK TV" tvg-logo="https://static.wikia.nocookie.net/globaltvindonesia/images/5/52/01._Jak_TV.gif/revision/latest?cb=20240424154452" group-title="INDONESIA TV", Jak TV
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-
-#EXTINF:-1 tvg-id="Jak.TV.id" tvg-name="JAK TV" tvg-logo="https://static.wikia.nocookie.net/globaltvindonesia/images/5/52/01._Jak_TV.gif/revision/latest?cb=20240424154452" group-title="INDONESIA TV", Jak TV (Alternative)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
-https://cdnjktbpid22.transvision.co.id/riutx01/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
- 
-#EXTINF:-1 group-title="INDONESIA TV",ELSHINTA TV
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
- 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="INDONESIA TV",INews Vision+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Channel Nasional & Lokal",INews Vision+
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
- 
- 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="INDONESIA TV",Mentari TV
-#https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/20
- 
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="INDONESIA TV",Mentari TV
-http://103.66.62.83:8000/play/a00h/index.m3u8
- 
+========================================================== TV ONE =====================================================================
+
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Channel Nasional & Lokal" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE Vision+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
+========================================================== TVRI WORLD =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
+https://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+
+========================================================== TVRI Nasional =====================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI Nasional
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+========================================================== NUSANTARA TV =====================================================================
 
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+========================================================== BN CHANNEL =====================================================================
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Channel Nasional & Lokal",BN CHANNEL
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnn.png" group-title="INDONESIA TV",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
+========================================================== Sakti TV =====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT370BM9ASByQuGS3WvkQuPa-sS2lP0qA4Phl5G8zvncg&s=10",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+========================================================== BERITA SATU =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+
+========================================================== MAGNA CHANNEL =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10",MAGNA Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+========================================================== GARUDA TV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
+========================================================== STARA TV =====================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="Channel Nasional & Lokal",STARA TV
+https://jakarta.staratv.id/hls/0/stream.m3u8
+
+========================================================== BTV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png",BTV
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+========================================================== Sinpo TV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",SINPO TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
+========================================================== Antara TV =====================================================================
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="AntaraTV.id" tvg-name="Antara TV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg" group-title="Channel Nasional & Lokal",ANTARA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+========================================================== ELSHINTA TV =====================================================================
+
+#EXTINF:-1 group-title="Channel Nasional & Lokal",ELSHINTA TV
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+========================================================== Jogja TV =====================================================================
+
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqx3GNEyPvX_kdBQb-WUyofSyZt-bVu2GXk5oZxSfMJsjk7AZATCvcbsck&s=10" group-title="Channel Nasional & Lokal",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+========================================================== JITV =====================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="Channel Nasional & Lokal",JTV Vision+
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
+
+========================================================== JowoChannel =====================================================================
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrN1VkPc8FAjmDXLxzaQSakXdIivHNoQ9EBHqDmePLA&s=10" group-title="Channel Nasional & Lokal", Jowo Channel
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
+========================================================== HANACARAKA TV =====================================================================
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuV6XTX-lIHaMjSaz0ml1fo_S5mqpsjwdXpsO7-mxBg&s=10",Hanacaraka TV
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+========================================================== Dhono TV =====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/GmtPmfKR/ezgif-7a3f05b6eddb8b9c.png",CNN INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKZTlbU5-Kiqhy9bIYVSGSLM8Brxt-fin0RjCR8RkOw&s=10",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVONE/playlist.m3u8
+========================================================== TATV =====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-PRHE7UVBD4FTMdWD1gMPVjId3egIl-EhF3i9hXlHQ&s=10",TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-SCTV/playlist.m3u8
+========================================================== BMS TV =====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXLUWiBllarKsFrPVAYVA5g7PYPjBmW2XEVZ-D3WLnuFZ-ivhfR02PDVRaDNPT9KONvEatw4g8FEGEvHYEr_aQnqbXlLejgEnFljJdg&s=10",BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-NET/playlist.m3u8
+========================================================== Duta TV =====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvE8WPi1WeteheEzwnkzBVYA7jJ4xpZYe_tO3ynPsVg&s",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+========================================================== DhammaTV =====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl85kPaPuXqYjZEdaQuTC2ybuWhKBDzGaKcDPjmZVZg&s=10",DhammaTV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
+========================================================== BUNGO TV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png",KOMPAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPAjalQmEpiHsQNGPEW9w4CiavBKecBx43blw3nqMuA&s=10 group-title="Channel Nasional & Lokal", Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/WbQ67s7p/metro-tv-id.png",METRO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-METROTV/playlist.m3u8
+========================================================== Bali TV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/RFswJm0R/bali-tv-id.png",BALI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-BALITV/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png",Bali TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVRI/playlist.m3u8
+========================================================== ELSHINTA TV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="Channel Nasional & Lokal",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-DAAITV/playlist.m3u8
+========================================================== Jambi TV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/Fs1ScsDZ/ezgif-1-78f6f17e1e.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuq8532W9fB5LakE4smhAJwE4ZF5GdUxUrSiQcgT73g&s" group-title="Channel Nasional & Lokal",Jambi TV
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eat_and_go_id.png",EAT & GO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
+========================================================== RCTV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/insert_id.png",!NSERT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsT1-TAALAyekW9BJnt26w8n_3sQKQ23O1iHaCkvX7Xg&s=10",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/musik-indonesia-id.png",MUSIK INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
+========================================================== Radar TV Tasikmalaya ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/rmcB6JMQ/ezgif-63cedb0a1d9add6a.png",KNOWLEDGE+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="Channel Nasional & Lokal",Radar TV Tasikmalaya
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-plus-id-id.png",GOLF PLUS ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-GOLF/playlist.m3u8
+========================================================== Lingkar TV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaming-tv.png",GAMING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
+#EXTINF:-1 group-title="Channel Nasional & Lokal" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr1bT7cGoI_8w7XuKoGNZ1J4i3wuK25di5YApZE3uvg&s=10",LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight-tv.png",FIGHT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-FIGHTSPORTS/playlist.m3u8
+========================================================== Max Group ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-tv.png",SPORTS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg" group-title="Max Group",Max Reels
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/9fNnV6js/cna-sg.png",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CNA/playlist.m3u8
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/BvXGxcZ3/celestial-movies-hk.png",CELESTIAL MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",Max Eats
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/6Q7D7Wz3/thrill-hk.png",THRILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-THRILL/playlist.m3u8
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",Max Streak
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/dV5Y349G/ezgif-2cf4aa559688f23e.png",CINEMAWORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
+#EXTINF:-1 group-title="Max Group"  tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png",CCTV 4 ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CCTV4/playlist.m3u8
+========================================================== TVRI Sport ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png",CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CGTN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="Channel Sports",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
+========================================================== BEIN Sports ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-NHKWORLD/playlist.m3u8
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="Channel Sports", BEIN Sports ID 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/9MMVxHp4/ezgif-6457788ed7f0a9.png",NHK WORLD PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-NHKPREMIUM/playlist.m3u8
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="Channel Sports", BEIN Sports ID 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/d1HyM5GY/arirang.png",ARIRANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="Channel Sports",BEIN Sports ID 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVN/playlist.m3u8
+========================================================== SPOTV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png",TVN MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="Channel Sports",SPOTV
+#KODIPROP:inputstream.adaptive.livestream=false
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png",KBS WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
+#EXTINF:-1 tvg-id="spotv-2-hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="Channel Sports", SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/bNWrDJ9q/axn-east-asia.png",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-AXN/playlist.m3u8
+========================================================== CBS Sport ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/corp/aa/al_jazeera_qa.png",ALJAZEERA ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-ALJAZEERA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10" group-title="Channel Sports" ,CBS Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/jqgmHygJ/ezgif-48a9aa9cda23e1f4.png",ABC AUSTRALIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-ABCAUSTRALIA/playlist.m3u8
+========================================================== RedBull ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png",DW ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF4mFT1c5HiF_lypMLf-fuNcR9RRAhsVZeo6WghCXLQ&s=10" group-title="Channel Sports" ,RedBull TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/tJKzrRn2/ezgif-43179727fc7cce7b.png",EURONEWS.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
+========================================================== Max Sports ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/kXFtqMQH/ezgif-67b147fe9146efb9.png",TV5 MONDE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
+#EXTINF:-1 group-title="Channel Sports"  tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png",FRANCE 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
+========================================================== PSJ TV ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV SOUTHEAST ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjJMWnt2yOw0zM1C8vvDo7r3Gud7h9sHbw5ZQKbVUug&s=10" group-title="Channel Sports",PSJ TV
+https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-us.png",WARNER BROS.TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
+========================================================== Movies ====================================================================
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-HBO/playlist.m3u8
 
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
-
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
-
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
-
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
-
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/zXJGwChc/ezgif-67daec0494f623a7.png",CARTOONITO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
+#EXTM3U billed-msg="🔵Playlist By Adi IPTV, Group Info : Telegram - AdiIPTV "
