@@ -1,8 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 
 # <============================================== WorldCup 2026 ===========================================================>
+#EXTINF:-1 group-title="MAS MOUND EVENT 15/JUNI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Jerman vs Curaçao
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 23/06/2026 07:00 WIB Norwegia vs Snegal
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
