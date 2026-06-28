@@ -3,16 +3,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026",CAZE TV 1 (BRAZIL)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026",CAZE TV 2 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026",CAZE TV 3 (BRAZIL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",CT 2 (CHEKO)
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 
@@ -21,200 +11,140 @@ http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/0.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",MOLDOVA 2 (MOLDOVA)
-https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",RTSH 1 HD (ALBANIA)
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",RTSH SPORT (ALBANIA)
-http://188.172.107.157:15151/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" ,GTV (S1)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|User-Agent=referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" ,GTV (S2)
-http://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" ,GTV (S3)
-http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" tvg-id="MNCTV.id" ,MNCTV (S1)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|User-Agent=referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV (S2)
-http://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV (S3)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI (1) V+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282
+
 http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV (S1)
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash|license_type=com.widevine.alpha&license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm&User-Agent=VidioPlayer/6.41.11
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV (S2)
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv|User-Agent=referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV (S3)
-http://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV (S4)
-http://103.58.160.157:8278/720-SCTV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV DIGITAL (S5)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" ,SCTV (S1)
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash|license_type=com.widevine.alpha&license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm&User-Agent=VidioPlayer/6.41.11\
 http://103.148.44.38:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar (S1)
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar (S1)
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash|license_type=com.widevine.alpha&license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm&User-Agent=VidioPlayer/6.41.11
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar (S2)
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar (S3)
-http://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar (S4)
-http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" ,Indosiar DIGITAL (S5)
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/162138|User-Agent=referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" tvg-id="RCTI" tvg-name="RCTI" ,RCTI (S1)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|User-Agent=referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" ,RCTI (S2)
-http://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" tvg-id="RCTI.id" ,RCTI (S3)
-http://103.58.160.157:8278/720-RCTI/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" ,RCTI DIGITAL (S4)
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" ,RCTI DIGITAL (S5)
+
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157591
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" tvg-id="002" tvg-name="002" ,ANTV (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" tvg-id="002" tvg-name="002" ,ANTV (S1)
 https://ratuvidio.adptv.workers.dev/index.mpd?id=782&type=dash|User-Agent=referrer=http://www.vidio.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" ,ANTV (S2)
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" tvg-id="ANTV" tvg-name="ANTV" ,ANTV DIGITAL (S3)
-http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/1165776
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" tvg-id="ANTV" tvg-name="ANTV" ,ANTV DIGITAL (S4)
-http://opplextv.cyou:8080/nasir6160/nasir/350892
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" ,ANTV DIGITAL (S5)
+
 http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI 
 http://tvratu.my.id/nissa/index.mpd?id=206&type=dash|license_type=com.widevine.alpha&license_key=http://tvratu.my.id/nissa/index.mpd?id=206.drm&User-Agent=VidioPlayer/6.41.11
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI (S2)
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" ,MOJI DIGITAL (S3)
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298550
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV (S1)
-http://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S2)
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S3)
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/162503
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S4)
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV 
 http://103.148.44.38:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" ,Trans TV DIGITAL (S5)
-http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 (S1)
-http://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 DIGITAL (S2)
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 DIGITAL (S3)
-http://front-main.eagle-4k.me:80/jlllxqecvz/b4jfag2kkv/1165871
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" ,Trans 7 DIGITAL (S4)
-http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV (S1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", Trans 7 DT
+#EXTVLCOPT:http-origin=https://20.detik.com/
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA", Trans 7 V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV (S1)
 https://ratuvidio.adptv.workers.dev/index.mpd?id=1561&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV (S2)
-http://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" tvg-id="Rajawali TV" ,RTV (S3)
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV (S4)
-http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" ,RTV DIGITAL (S5)
+
 http://103.148.44.38:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" ,MDTV (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" ,MDTV (S1)
 https://ratuvidio.adptv.workers.dev/index.mpd?id=875&type=dash|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" tvg-id="NET TV - [Channel 116].id" ,MDTV (S2)
-https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV|User-Agent=referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" tvg-id="NET.id" ,MDTV DIGITAL (S3)
-http://103.58.160.157:8278/720-NET/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" tvg-id="NET.id" ,MDTV DIGITAL (S4)
-http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" ,NUSANTARA TV (S1)
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" ,NUSANTARA TV (S1)
 https://ratuvidio.adptv.workers.dev/index.mpd?id=7432&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" ,NUSANTARA TV (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" ,NUSANTARA TV (S2)
 http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-|User-Agent=referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" ,NUSANTARA TV (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" ,NUSANTARA TV (S3)
 http://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" tvg-id="18" ,INEWS (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" tvg-id="18" ,INEWS (S1)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|User-Agent=referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" ,INEWS (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" ,INEWS (S2)
 http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" ,IDX CHANNEL
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" ,IDX CHANNEL
 http://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png" ,SINDONEWS TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png" ,SINDONEWS TV
 http://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd|User-Agent=referrer=http://www.indihometv.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" ,TVONE (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" ,TVONE (S1)
 https://ratuvidio.adptv.workers.dev/index.mpd?id=783&type=dash|User-Agent=referrer=http://m.vidio.com
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" ,TVONE (S2)
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" tvg-id="--" ,TVONE (S3)
-http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" ,TVONE (S4)
-http://103.58.160.157:8278/720-TVONE/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png" ,TVONE DIGITAL (S5)
-http://iptv.kilas7.com/live/kaukia/asdfrewq/5.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" tvg-id="029" tvg-name="029" ,Sin Po TV (S1)
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" tvg-id="029" tvg-name="029" ,Sin Po TV (S1)
 http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash|User-Agent=referrer=http://www.vidio.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" ,Sin Po TV (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" ,Sin Po TV (S2)
 http://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,No name
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,No name
 https://ratuvidio.adptv.workers.dev/index.mpd?id=777&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV DIGITAL (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV DIGITAL (S2)
 http://103.58.160.157:8278/720-METROTV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV DIGITAL (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" ,Metro TV DIGITAL (S3)
 http://iptv.kilas7.com/live/kaukia/asdfrewq/6.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" ,Kompas TV (S1)
-https://ratuvidio.adptv.workers.dev/index.mpd?id=874&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" tvg-id="Kompas TV - [Channel 106].id" ,Kompas TV (S2)
-https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8|User-Agent=referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" ,Kompas TV (S3)
-http://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" tvg-name="KOMPAS TV" ,KOMPAS TV DIGITAL (S4)
-http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" tvg-id="KompasTv" tvg-name="KompasTv" ,KOMPAS TV DIGITAL (S5)
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" tvg-id="KompasTv" tvg-name="KompasTv" ,KOMPAS TV 
 http://103.148.44.38:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg" ,Berita Satu (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg" ,Berita Satu 
 https://ratuvidio.adptv.workers.dev/index.mpd?id=18280&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg" ,Berita Satu (S2)
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|User-Agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&amp;referrer=http://dens.tv
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" ,BTV (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" ,BTV 
 https://ratuvidio.adptv.workers.dev/index.mpd?id=6165&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" ,BTV (S2)
-http://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" ,BTV (S3)
-http://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" ,BTV DIGITAL (S4)
-http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" ,BN CHANNEL
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" ,BN CHANNEL
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png" ,CNN Indonesia (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png" ,CNN Indonesia (S1)
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8|User-Agent=referrer=https://www.cnnindonesia.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png" ,CNN Indonesia DIGITAL (S2)
-http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png" ,CNN Indonesia DIGITAL (S3)
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/162137
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" ,CNBC Indonesia (S1)
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="INDONESIA",CNN INDONESIA
+#EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" ,CNBC Indonesia (S1)
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" ,CNBC Indonesia DIGITAL (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" ,CNBC Indonesia DIGITAL (S2)
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165062
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" tvg-id="019" tvg-name="019" ,Mentari TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" tvg-id="019" tvg-name="019" ,Mentari TV
 http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash|User-Agent=referrer=http://www.vidio.com/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV (S1)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV (S1)
 https://ratuvidio.adptv.workers.dev/index.mpd?id=6482&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV (S2)
 http://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_SD.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV (S3)
 http://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV DIGITAL (S4)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" ,DAAI TV DIGITAL (S4)
 http://103.58.160.157:8278/720-DAAITV/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" ,Garuda TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" ,Garuda TV
 https://ratuvidio.adptv.workers.dev/index.mpd?id=18162&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI (S1)
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|User-Agent=referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI (S2)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI (S1)
+https://ott-balancer.tvri.go.id/live/eds/INDONESIA/hls/INDONESIA.m3u8|User-Agent=referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI (S2)
 http://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI DIGITAL (S3)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" ,TVRI DIGITAL (S3)
 http://103.58.160.157:8278/720-TVRI/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" ,TVRI SPORT DIGITAL
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" ,TVRI SPORT DIGITAL
 http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" ,TVRI WORLD
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" ,TVRI WORLD
 http://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMAAj4A5Vad3U1ynbGFZPDLd3vgKkIzHcrFU5lAwgoA&s=10" tvg-id="Apple TV.id" ,TVR PARLEMEN
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMAAj4A5Vad3U1ynbGFZPDLd3vgKkIzHcrFU5lAwgoA&s=10" tvg-id="Apple TV.id" ,TVR PARLEMEN
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://iili.io/JmF1BWb.png" ,TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
@@ -482,9 +412,9 @@ http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8|User-Agent=Mozilla/5.0 (Wi
 http://cdn10jtedge.indihometv.com/atm/DASH/bbcnews/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnninter.png" tvg-id="CNN.International.(HD).sg" ,CNN INTERNATIONAL (S1)
 http://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnninter.png" tvg-id="CNN.us" ,CNN INTERNASIONAL (S2)
+#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnninter.png" tvg-id="CNN.us" ,CNN INTERINDONESIA (S2)
 http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR2PZM1Hv__7pEnJOHFz9MAPy8ki1I5zoXiXwvI3MFQ&s=10" tvg-id="cnbc" ,CNBC Internasional
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR2PZM1Hv__7pEnJOHFz9MAPy8ki1I5zoXiXwvI3MFQ&s=10" tvg-id="cnbc" ,CNBC InterINDONESIA
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg" tvg-id="Russia.Today.in" ,RT NEWS
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
