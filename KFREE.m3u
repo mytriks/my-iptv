@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026", PIALA DUNIA 2026
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc379/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026"
+#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026", PIALA DUNIA 2026
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026"
+#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026", PIALA DUNIA 2026
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026",CAZE TV 1 (BRAZIL)
