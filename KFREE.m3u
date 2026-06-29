@@ -1,29 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026", PIALA DUNIA 2026
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc379/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026", PIALA DUNIA 2026
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026", PIALA DUNIA 2026
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🏆 PIALA DUNIA 2026",CAZE TV 1 (BRAZIL)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",CT 2 (CHEKO)
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",MOLDOVA 1 (MOLDOVA)
-https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/0.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg" group-title="🏆 PIALA DUNIA 2026",RTSH 1 HD (ALBANIA)
-http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 25/06/2026 02:00 WIB Swiss vs Kanada
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 25/06/2026 02:00 WIB Bosnia & Herzegovina vs Qatar
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 25/06/2026 05:00 WIB Maroko vs Haiti
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 25/06/2026 05:00 WIB Slotlandia vs Brazil
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 25/06/2026 08:00 WIB Afrika Selatan vs Korea Selatan
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="MAS MOUND EVEN WC2026 😎 ", 25/06/2026 08:00 WIB Ceko vs Meksiko
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV (1) V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
